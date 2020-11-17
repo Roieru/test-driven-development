@@ -1,2 +1,2 @@
-# test-driven-development
-Tarea Test Driven Development
+To execute use:
+`python .\my_list_test.py`
