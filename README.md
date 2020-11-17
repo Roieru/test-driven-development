@@ -1,2 +1,2 @@
 To execute use:
-`python .\my_list_test.py`
+`python .\list_tests.py`
